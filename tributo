@@ -1,0 +1,25 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <!-- S1 -->
+    <main>
+      <!--  S2 -->
+            <title>Home</title>
+      <!--  S3 -->
+      <div class="img-div" >
+        <!-- S4 -->
+        <img id="image" src="" alt="">
+          <!--  S5 -->
+        <h2 id="image-caption"></h2>
+      </div>
+      <!-- S6 -->
+      <p id="tribute-info"></p>
+      <!-- S7 target="_blank" -->
+      <a href="#" id="tribute-link"></a>
+    </main>
+  </body>
+</html>
