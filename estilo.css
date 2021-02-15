@@ -1,6 +1,5 @@
-<style>
  body{
-
+background-color: red;
  }
  main {
 
@@ -12,13 +11,16 @@
 
  }
  img-div{
-
+   max-width: 40%;
+   height: auto;
  }
  .img-caption{
 
  }
  .image{
+<!-- S8 resize responsively -->
 
+<!-- S9 center -->
  }
  .tribute-info{
 
@@ -26,5 +28,3 @@
  .tribute-link{
 
  }
-
- </style>
