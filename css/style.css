@@ -24,7 +24,9 @@ font-weight: bold;
 }
 #image{
 max-width: 100%;
-
+}
+#image-caption{
+  color: hsla(223, 100%, 50%, 1);
 }
 
 #tribute-info{
