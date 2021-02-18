@@ -1,0 +1,38 @@
+body{
+  background-color: hsla(223, 50%, 63.5%, 0.5);
+  font-family: helvetica;
+  font-size: 1.25vw;
+
+}
+
+#container{
+display: block;
+width: 60vw;
+height: auto;
+margin:auto;
+border: black;
+padding: 2%;
+text-align: center;
+background-color: white;
+border: 5PX hsla(223, 100%, 63.5%, 1);
+border-style: solid;
+}
+#title{
+color: hsla(223, 100%, 50%, 1);
+font-family: arial;
+font-weight: bold;
+}
+#image{
+max-width: 100%;
+
+}
+
+#tribute-info{
+  display: block;
+  text-align: justify;
+  margin: auto;
+  padding: 2%;
+  width: 80%;
+  background-color: hsla(223, 0%, 90%, 0.7);
+
+}
