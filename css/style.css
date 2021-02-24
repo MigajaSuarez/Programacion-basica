@@ -4,7 +4,12 @@ body{
   font-size: 1.25vw;
 
 }
-
+img{
+display: block;
+width: 100%;
+max-width: 1920px;
+height: auto;
+}
 #container{
 display: block;
 width: 60vw;
@@ -22,10 +27,8 @@ color: hsla(223, 100%, 50%, 1);
 font-family: arial;
 font-weight: bold;
 }
-#image{
-max-width: 100%;
-}
-#image-caption{
+
+#img-caption{
   color: hsla(223, 100%, 50%, 1);
 }
 
